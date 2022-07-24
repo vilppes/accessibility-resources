@@ -10,5 +10,6 @@ TODO: add a page for tools or something
 
 TODO: add a page for the problems that cause the need for these tools
 
-**Other peoples lists of resources on the same subject:**
+**Other peoples lists of resources and guides on the same subject:**
 - awesome a11y [curated list here](https://github.com/brunopulis/awesome-a11y)
+- accessibility developer [here](https://www.accessibility-developer-guide.com/introduction/how-to-use/)
