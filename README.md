@@ -1,1 +1,3 @@
 # accessibility-resources
+
+This repository is supposed to eventually become an extensive "wiki" of all things accessibility. I will be writing this in a way that helps me the most as an engineer and as a software developer, you may have vastly different needs or a different background so you might benefit more from another repository. Nonetheless, if you feel like you are able to contribute to this repository/project by adding information, please do.
