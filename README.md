@@ -7,7 +7,7 @@ This repository is supposed to eventually become an extensive "wiki" of all thin
 This is the first page of this wiki type thing that is entirely built on .md files. This page also works as a root, every page links back to this one.
 
 **Articles:**
-- Tools that I recommend you to use and something on how I use them and maybe more [here](https://github.com/vilppes/accessibility-resources/blob/main/topics/TOOLS.md)
+- Tools that I recommend you to use (if you need to) and something on how I use them and maybe more [here](https://github.com/vilppes/accessibility-resources/blob/main/topics/TOOLS.md)
 - Problems that are currently not fully solved or problems that have solutions to them, but are still causing issues [here](https://github.com/vilppes/accessibility-resources/blob/main/topics/PROBLEMS.md)
 
 **Other peoples lists of resources and guides on the same subject:**
